@@ -393,4 +393,4 @@ if(botconfig["module_toggles"].filter_lang_links) {
     });
 }
 
-bot.login(auth.token);
+bot.login(procces.env.BOT_TOKEN);
