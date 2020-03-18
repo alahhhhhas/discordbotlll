@@ -1,6 +1,7 @@
 // REMOVING OR EDITING THIS FILE IS A BREACH OF THE LICENSE. LEAVE IT AS IS AND DON'T DISABLE IT! [START NO EDIT]
 // © 2019 Fraffel Media. MultiBot is created by luka (luka#1919). View the license!
 const botconfig = require("./botconfig.json");
+const auth = require("./auth.json");
 const Discord = require("discord.js");
 const fs = require("fs");
 const bot = new Discord.Client({disableEveryone: true});
