@@ -1,2 +1,0 @@
-# discordbotlll
-aa
