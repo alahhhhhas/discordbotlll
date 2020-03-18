@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "MultiBot developed by FAXES",
     "main": "index.js",
+      "start": "node index.js"
     "dependencies": {
         "discord.js": "^11.5.1",
         "express": "^4.17.1",
